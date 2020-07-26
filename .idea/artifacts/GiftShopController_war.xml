@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GiftShopController:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>GiftShopController</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gift-shop-contorller-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GiftShopController:war exploded" />
+    </root>
+  </artifact>
+</component>
